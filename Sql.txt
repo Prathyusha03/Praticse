@@ -2,3 +2,5 @@ Hi welocme to sql
 
 DML
 DDL
+DCL
+DTL
